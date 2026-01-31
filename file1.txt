@@ -1,1 +1,2 @@
 we are learining git and github
+pushing steps are done
